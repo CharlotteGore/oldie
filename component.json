@@ -1,0 +1,13 @@
+{
+  "name": "oldie",
+  "repo": "charlottegore/oldie",
+  "description": "Detects IE6, 7 and 8",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
